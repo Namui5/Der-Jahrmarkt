@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 0f95b140cc9d81d41932fcc622fab78c
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 1142470926882686335
+    second: Centrifuge|CentrifugeAction
+  - first:
+      74: -6408806684976404942
+    second: Centrifuge|Shell.000Action
+  - first:
+      74: 1938186039115819004
+    second: Centrifuge|Shell.001Action
+  - first:
+      74: 1060381111849551854
+    second: Centrifuge|Shell.002Action
+  - first:
+      74: -2770528222142741463
+    second: Centrifuge|Shell.003Action
+  - first:
+      74: 585445874937472931
+    second: Shell.000|CentrifugeAction
+  - first:
+      74: 5936994205655946824
+    second: Shell.000|Shell.000Action
+  - first:
+      74: 6422538179042179675
+    second: Shell.000|Shell.001Action
+  - first:
+      74: 6591903406212340988
+    second: Shell.000|Shell.002Action
+  - first:
+      74: 7943966478437477089
+    second: Shell.000|Shell.003Action
+  - first:
+      74: 8431287518621582957
+    second: Shell.001|CentrifugeAction
+  - first:
+      74: 4822211490239349080
+    second: Shell.001|Shell.000Action
+  - first:
+      74: -6057251015922034652
+    second: Shell.001|Shell.001Action
+  - first:
+      74: -8575716843729032483
+    second: Shell.001|Shell.002Action
+  - first:
+      74: -1481458036995701169
+    second: Shell.001|Shell.003Action
+  - first:
+      74: -8086408034512981802
+    second: Shell.002|CentrifugeAction
+  - first:
+      74: 4787995633902170547
+    second: Shell.002|Shell.000Action
+  - first:
+      74: 712832891662455844
+    second: Shell.002|Shell.001Action
+  - first:
+      74: 2265960911044036202
+    second: Shell.002|Shell.002Action
+  - first:
+      74: 1685742735483012203
+    second: Shell.002|Shell.003Action
+  - first:
+      74: 7809872846449413151
+    second: Shell.003|CentrifugeAction
+  - first:
+      74: 3738394657645995859
+    second: Shell.003|Shell.000Action
+  - first:
+      74: -3636552725691951003
+    second: Shell.003|Shell.001Action
+  - first:
+      74: -4151131547406408649
+    second: Shell.003|Shell.002Action
+  - first:
+      74: -3242343543784144453
+    second: Shell.003|Shell.003Action
+  - first:
+      74: 7448912561412218000
+    second: Ocean|CentrifugeAction
+  - first:
+      74: 4486984468816865375
+    second: Ocean|PlaneAction.002
+  - first:
+      74: -8638251942562592867
+    second: Ocean|Shell.000Action
+  - first:
+      74: -7428410597534215450
+    second: Ocean|Shell.001Action
+  - first:
+      74: -4246677023584272502
+    second: Ocean|Shell.002Action
+  - first:
+      74: -6616490596164199525
+    second: Ocean|Shell.003Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

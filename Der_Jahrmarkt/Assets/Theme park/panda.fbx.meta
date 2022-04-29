@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: 7f79c02f99a38ff40b1ec36833892d6a
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5399967202834489902
+    second: R_handAttachment|Armature|Take 001|BaseLayer.003
+  - first:
+      74: 200660874172308760
+    second: R_handAttachment|crateAttachment.001|Take 001|BaseLayer
+  - first:
+      74: 2527087233749019693
+    second: R_handAttachment|crateAttachment|Take 001|BaseLayer
+  - first:
+      74: -8600561057096127056
+    second: R_handAttachment|crateAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 720767883251198720
+    second: R_handAttachment|crateAttachment|Take 001|BaseLayer.002
+  - first:
+      74: 1269100993315737274
+    second: R_handAttachment|crateAttachment|Take 001|BaseLayer.003
+  - first:
+      74: 6615211323419013216
+    second: 'R_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: -6036249560196648457
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .000
+  - first:
+      74: 8424007488188821847
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .001
+  - first:
+      74: 4759876864795311093
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .002
+  - first:
+      74: -2397451902857903739
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .003
+  - first:
+      74: -6560258952745177912
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .004
+  - first:
+      74: -6754069881552712499
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      001|
+  - first:
+      74: -1266904774575291949
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: 5307780349466963092
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: 59274517302358344
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: -3823510395849359319
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: 5021981321366497065
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: 485017414112509120
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: 1163475524362831101
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: -217604991398041567
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: -5482591333004916097
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: -4377905149265119443
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: 8566183026602696613
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: 5086990294343371481
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: -1288605200730989549
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: -7030005599198022515
+    second: R_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: 655001910228646252
+    second: R_handAttachment|L_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: 8241846615547843986
+    second: R_handAttachment|L_handAttachment|Take 001|BaseLayer
+  - first:
+      74: -306428250274773495
+    second: R_handAttachment|L_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 9095214952778607874
+    second: R_handAttachment|L_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -2600750519768903061
+    second: R_handAttachment|L_handAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -3789228708172962822
+    second: 'R_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: -7260514458617338416
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .000
+  - first:
+      74: 7191551610660170412
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .001
+  - first:
+      74: -6569498263528612428
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .002
+  - first:
+      74: -4255691783047959118
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .003
+  - first:
+      74: -1870064885545779360
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .004
+  - first:
+      74: 5260797112671282366
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      001|
+  - first:
+      74: -4367781645492205446
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: 3086103909153354828
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: 152707678810533398
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: 351538317123773585
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: 1188310510754624966
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: 4018449364909257099
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: -3762716029331484789
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: 762940195486473494
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: 1408359417075099311
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: 5752105880621048109
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: 5426283557459879964
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: 297328870667688244
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: -1594673596309948523
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: -4673510916017208286
+    second: R_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: -7265581913710378988
+    second: R_handAttachment|R_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: 8545332382015210262
+    second: R_handAttachment|R_handAttachment|Take 001|BaseLayer
+  - first:
+      74: -157636343146048838
+    second: R_handAttachment|R_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 527031155605865141
+    second: R_handAttachment|R_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -5551785207754535859
+    second: R_handAttachment|R_handAttachment|Take 001|BaseLayer.003
+  - first:
+      74: 9134661050803685076
+    second: L_handAttachment|Armature|Take 001|BaseLayer.003
+  - first:
+      74: 7208317625722605518
+    second: L_handAttachment|crateAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -5276717062948340351
+    second: L_handAttachment|crateAttachment|Take 001|BaseLayer
+  - first:
+      74: 3364361175870101133
+    second: L_handAttachment|crateAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 2592838862674989607
+    second: L_handAttachment|crateAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -8478049736354806606
+    second: L_handAttachment|crateAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -2578773629521186992
+    second: 'L_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: 5428589203899157816
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .000
+  - first:
+      74: -3066697841461983951
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .001
+  - first:
+      74: -3978652588687634582
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .002
+  - first:
+      74: -3378339622427800927
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .003
+  - first:
+      74: 2908787738126383435
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .004
+  - first:
+      74: 995797719103663905
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      001|
+  - first:
+      74: -2013955134733128224
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: 1727987886036629911
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: 6364302107652753860
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: 1245689939879593748
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: -2623804657569394269
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: 1257412254216473021
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: -7976803288880322398
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: 8653378385941932166
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: 8021672046222924733
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: -461409727834509342
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: -4486476622470425349
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: 5990270078489715486
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: 4472289660457368190
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: 4224321968050752976
+    second: L_handAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: 4683677744051857728
+    second: L_handAttachment|L_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -2947947218371777520
+    second: L_handAttachment|L_handAttachment|Take 001|BaseLayer
+  - first:
+      74: -2518488356109886099
+    second: L_handAttachment|L_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: -2035282707230017620
+    second: L_handAttachment|L_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -5952818602570482676
+    second: L_handAttachment|L_handAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -4210112577205120915
+    second: 'L_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: -3947461134743543303
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .000
+  - first:
+      74: 8252561341229018709
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .001
+  - first:
+      74: -1033750310221663386
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .002
+  - first:
+      74: 6931853975315906996
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .003
+  - first:
+      74: 2747653287144799143
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .004
+  - first:
+      74: -2325588960713129092
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      001|
+  - first:
+      74: -5208422160142182930
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: -2502172096452518316
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: -3385651362141230995
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: -8382694681456741109
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: -3351702971129815668
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: 8195786517948702752
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: -6293199022518060617
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: 5960569816687380924
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: 2368475277347289122
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: 8220550466561897432
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: 1258247038047467877
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: 6179220643992939693
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: 2018562820912278171
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: 5442798584822998909
+    second: L_handAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: 1693266219910973649
+    second: L_handAttachment|R_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -1713541284336201598
+    second: L_handAttachment|R_handAttachment|Take 001|BaseLayer
+  - first:
+      74: -6628081935912453376
+    second: L_handAttachment|R_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 6844280295863801692
+    second: L_handAttachment|R_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -4843063205519592263
+    second: L_handAttachment|R_handAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -3994805948978059305
+    second: crateAttachment|Armature|Take 001|BaseLayer.003
+  - first:
+      74: 1528644202036540942
+    second: crateAttachment|crateAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -2938694852421962325
+    second: crateAttachment|crateAttachment|Take 001|BaseLayer
+  - first:
+      74: -6080336629186909352
+    second: crateAttachment|crateAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 8116556424481567495
+    second: crateAttachment|crateAttachment|Take 001|BaseLayer.002
+  - first:
+      74: 3427464599232323574
+    second: crateAttachment|crateAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -5585877274768311015
+    second: 'crateAttachment|L_handAttachment.001|L_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: 4084448712576370453
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .000
+  - first:
+      74: -8523884844867693156
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .001
+  - first:
+      74: -3449572010987266580
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .002
+  - first:
+      74: 8257067159000055032
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .003
+  - first:
+      74: -5615033070530448354
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      .004
+  - first:
+      74: -4644497287922096704
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|crateAttachment|Take
+      001|
+  - first:
+      74: -6555140718304724596
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: 7656192804930021357
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: -7933291622872134968
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: 6953779040918178497
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: 3511895114723938926
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: -448796114372937371
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: 4213459140316661706
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: -2999281182768950853
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: 2285455343906036306
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: -7370122955652672204
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: 6774758969388362789
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: 1722581568518092649
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: -5277773544683462707
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: -4281583286750515785
+    second: crateAttachment|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: 8202942905839804527
+    second: crateAttachment|L_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -7699242634616832094
+    second: crateAttachment|L_handAttachment|Take 001|BaseLayer
+  - first:
+      74: 1817308493515625763
+    second: crateAttachment|L_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 5692688305152633791
+    second: crateAttachment|L_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -2773558714540532807
+    second: crateAttachment|L_handAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -6794944554890249692
+    second: 'crateAttachment|R_handAttachment.001|R_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: -2114845366529925370
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .000
+  - first:
+      74: 3542262954846206819
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .001
+  - first:
+      74: -7200780993275559371
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .002
+  - first:
+      74: 1047424837888153545
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .003
+  - first:
+      74: 3164548718771875967
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      .004
+  - first:
+      74: -3464332565962649398
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|crateAttachment|Take
+      001|
+  - first:
+      74: 8561358017902280066
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: 818805126621155278
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: -3825405606668171083
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: 7656206440761723653
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: -9157751477185143473
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: 3660911278770047968
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: 2895582173001742403
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: 541485695264059023
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: 3223467588601237282
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: -3116149948375705513
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: -476710726698238291
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: 7690662200138947859
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: -1254203721687673649
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: 557514962587099528
+    second: crateAttachment|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: 2488988265065242521
+    second: crateAttachment|R_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -7546628921699502928
+    second: crateAttachment|R_handAttachment|Take 001|BaseLayer
+  - first:
+      74: 6032185874175358824
+    second: crateAttachment|R_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 1377903139033038523
+    second: crateAttachment|R_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -130682355180966065
+    second: crateAttachment|R_handAttachment|Take 001|BaseLayer.003
+  - first:
+      74: 3026343089930482345
+    second: Armature|Armature|Take 001|BaseLayer.003
+  - first:
+      74: -6252360776740435550
+    second: Armature|crateAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -9152589250991317314
+    second: Armature|crateAttachment|Take 001|BaseLayer
+  - first:
+      74: -2501204217203939159
+    second: Armature|crateAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 8161398275578430008
+    second: Armature|crateAttachment|Take 001|BaseLayer.002
+  - first:
+      74: -2903316784240082376
+    second: Armature|crateAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -5394505997828269880
+    second: 'Armature|L_handAttachment.001|L_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: -425842013938253718
+    second: Armature|L_handAttachment.001|L_handAttachment|crateAttachment|Take .000
+  - first:
+      74: 8566459588158726805
+    second: Armature|L_handAttachment.001|L_handAttachment|crateAttachment|Take .001
+  - first:
+      74: -2594725147704231493
+    second: Armature|L_handAttachment.001|L_handAttachment|crateAttachment|Take .002
+  - first:
+      74: 522336102200386084
+    second: Armature|L_handAttachment.001|L_handAttachment|crateAttachment|Take .003
+  - first:
+      74: 5212171985551120707
+    second: Armature|L_handAttachment.001|L_handAttachment|crateAttachment|Take .004
+  - first:
+      74: 4642556489471963187
+    second: Armature|L_handAttachment.001|L_handAttachment|crateAttachment|Take 001|
+  - first:
+      74: -5307669477377789517
+    second: Armature|L_handAttachment.001|L_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: 2406731475715519998
+    second: Armature|L_handAttachment.001|L_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: -3278365534279458711
+    second: Armature|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: -7565903355122183933
+    second: Armature|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: -7792185858372906898
+    second: Armature|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: 7639948862236008888
+    second: Armature|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: 7102190637027920419
+    second: Armature|L_handAttachment.001|L_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: -1794644295852445321
+    second: Armature|L_handAttachment.001|L_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: -2068141185059054146
+    second: Armature|L_handAttachment.001|L_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: -1288479057656514356
+    second: Armature|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: -7549662441245683156
+    second: Armature|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: -5281324068012637467
+    second: Armature|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: -1380475500163394158
+    second: Armature|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: 1148372688003496722
+    second: Armature|L_handAttachment.001|L_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: 247258351448154418
+    second: Armature|L_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: 1445221057663611879
+    second: Armature|L_handAttachment|Take 001|BaseLayer
+  - first:
+      74: 6822115606477088293
+    second: Armature|L_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 910452330966770904
+    second: Armature|L_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: 5364593336116979229
+    second: Armature|L_handAttachment|Take 001|BaseLayer.003
+  - first:
+      74: -1005576754103459835
+    second: 'Armature|R_handAttachment.001|R_handAttachment|crateAttachment.001|Take '
+  - first:
+      74: -146326928618156098
+    second: Armature|R_handAttachment.001|R_handAttachment|crateAttachment|Take .000
+  - first:
+      74: 427938921006235126
+    second: Armature|R_handAttachment.001|R_handAttachment|crateAttachment|Take .001
+  - first:
+      74: 2143062015128803728
+    second: Armature|R_handAttachment.001|R_handAttachment|crateAttachment|Take .002
+  - first:
+      74: -8913895693339772726
+    second: Armature|R_handAttachment.001|R_handAttachment|crateAttachment|Take .003
+  - first:
+      74: -293345815019821190
+    second: Armature|R_handAttachment.001|R_handAttachment|crateAttachment|Take .004
+  - first:
+      74: 3313921106585995508
+    second: Armature|R_handAttachment.001|R_handAttachment|crateAttachment|Take 001|
+  - first:
+      74: -444187864217918553
+    second: Armature|R_handAttachment.001|R_handAttachment|L_handAttachment.001|Take
+  - first:
+      74: -8897261614380295432
+    second: Armature|R_handAttachment.001|R_handAttachment|L_handAttachment|Take
+      001
+  - first:
+      74: 3059641764151228241
+    second: Armature|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.000
+  - first:
+      74: 7479751129278890283
+    second: Armature|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.001
+  - first:
+      74: 1577968704247145638
+    second: Armature|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.002
+  - first:
+      74: -2101122205786376912
+    second: Armature|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.003
+  - first:
+      74: -269354516021182770
+    second: Armature|R_handAttachment.001|R_handAttachment|L_handAttachment|Take.004
+  - first:
+      74: -2863230340374059894
+    second: Armature|R_handAttachment.001|R_handAttachment|R_handAttachment.001|Take
+  - first:
+      74: 6114694445618240797
+    second: Armature|R_handAttachment.001|R_handAttachment|R_handAttachment|Take
+      001
+  - first:
+      74: -7819596553014036446
+    second: Armature|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.000
+  - first:
+      74: -2121716550768806322
+    second: Armature|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.001
+  - first:
+      74: 5410948814304591258
+    second: Armature|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.002
+  - first:
+      74: -5229567883291992995
+    second: Armature|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.003
+  - first:
+      74: -4010966986086743593
+    second: Armature|R_handAttachment.001|R_handAttachment|R_handAttachment|Take.004
+  - first:
+      74: 2382050494949020118
+    second: Armature|R_handAttachment.001|Take 001|BaseLayer
+  - first:
+      74: -6227621712456030498
+    second: Armature|R_handAttachment|Take 001|BaseLayer
+  - first:
+      74: 1530597408590776425
+    second: Armature|R_handAttachment|Take 001|BaseLayer.001
+  - first:
+      74: 6983673309265798508
+    second: Armature|R_handAttachment|Take 001|BaseLayer.002
+  - first:
+      74: 3380591725172132475
+    second: Armature|R_handAttachment|Take 001|BaseLayer.003
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
