@@ -6,7 +6,22 @@ ModelImporter:
   - first:
       74: 1827226128182048838
     second: Take 001
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coaster
+    second: {fileID: 2100000, guid: 9ae2ddf380fa67747b0ed84c8f4815e5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coaster diffuse
+    second: {fileID: 2800000, guid: 6d3d82d597bffa54ab31cd5f807fcab5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coaster specular
+    second: {fileID: 2800000, guid: a27336fba2b48e84fb9c42c77cc307db, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

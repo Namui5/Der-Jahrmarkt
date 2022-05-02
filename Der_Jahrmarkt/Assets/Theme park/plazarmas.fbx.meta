@@ -3,7 +3,167 @@ guid: a035108089bc1524098e121adae79ccb
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 292491068c041d246a220fa3ae3b97b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: edab57c2f8071d24ab6cd00c6a1c9ca2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: f19c7454ba380874ca23f775ea9f4c46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 56552acdc8c831b4897255d9a4afd144, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Bottle Light Brown
+    second: {fileID: 2100000, guid: 4c0eff3a755d9e74abd4bcd580c278c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Granite Pol Snow White
+    second: {fileID: 2100000, guid: fe87f481498b9b8409356b0f6bf53285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IntPaintMatte Green Brown
+    second: {fileID: 2100000, guid: a2337104e871c6c4387754c29175b40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IntPaintSemi Agate Grey
+    second: {fileID: 2100000, guid: ec42c971a4ddaf749865661656d93ab0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ItalianSmooth2 Cafe Genoa
+    second: {fileID: 2100000, guid: 9f28468dfecd9514a881fdd798bbc860, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ItalianSmooth2 Espresso Nero
+    second: {fileID: 2100000, guid: e5f0508e242039e44998523bb73bbf3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ItalianSmooth2 Palazzo Sand
+    second: {fileID: 2100000, guid: 4337dfeb5129f414cba8975132eb1471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1493
+    second: {fileID: 2100000, guid: f96f399574dd29f4b8e17b9517f15c35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1494
+    second: {fileID: 2100000, guid: 9793ae22d6e7f8047882cb7f358fc81c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1496
+    second: {fileID: 2100000, guid: 7ce08af43903b1b46bfdf46bdba61824, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1500
+    second: {fileID: 2100000, guid: 3a982e66f652ee349a0bb686e5f4d01c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1559
+    second: {fileID: 2100000, guid: 7a0922356a0de394bad6df0ac7d59bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #1560
+    second: {fileID: 2100000, guid: 1c1151dba99727d4686764ad0ab6044b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #3
+    second: {fileID: 2100000, guid: 46e24028492cfeb4f8b30f95fb89a526, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #4
+    second: {fileID: 2100000, guid: e6d78c45ec68da14092289c2c11056a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matt Ash Black
+    second: {fileID: 2100000, guid: b44babc9dad1f8e4bbdfe007c681a85a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oak Matt Natural 2
+    second: {fileID: 2100000, guid: 0117ca3333b766345b40a9cc9b3e3d40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Special Antique Bronze Coated
+    second: {fileID: 2100000, guid: d9b5afff742419840867621cbc71183b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VID_MAT
+    second: {fileID: 2100000, guid: 3e826f81734702d47b8ffb24b540faa0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Worn Pocedural 4
+    second: {fileID: 2100000, guid: 0fac2488c5a0289448afbeecdc300503, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: arzobispo
+    second: {fileID: 2100000, guid: 2ed84793c0f2cf64fb15b37e05575151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: catedral1
+    second: {fileID: 2100000, guid: 5490965e52559d54795bb55a3ad26263, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass
+    second: {fileID: 2100000, guid: 52b9a7018f659fb48b896ba1478f129a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hormi_oscuro_copy
+    second: {fileID: 2100000, guid: c5aca7ac76f543241aac682fda5b29c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_ladrillo_2
+    second: {fileID: 2100000, guid: f3119858363ac1b45bf6ca4d7b5a65a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rejas
+    second: {fileID: 2100000, guid: 5621dca60c18dce499db6487660538cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sagrario
+    second: {fileID: 2100000, guid: 5342a65e82d773049ae9c7f72cacc07a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sagrariozzzz
+    second: {fileID: 2100000, guid: 97a15160c1eeb4c47bb2e502cf250698, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
