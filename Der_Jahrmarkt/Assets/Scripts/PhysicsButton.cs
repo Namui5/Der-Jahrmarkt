@@ -54,9 +54,8 @@ public class PhysicsButton : MonoBehaviour
     {
         isPressed = true;
         onPressed.Invoke();
-        Debug.Log("Pressed");
         ball.active = true;
-        ball.transform.position = new Vector3((float)535.9407, (float)140.2003, (float)173.5664);
+        ball.transform.position = new Vector3((float)533.8, (float)140.212, (float)175.29);
 
     }
 
@@ -64,7 +63,6 @@ public class PhysicsButton : MonoBehaviour
     {
         isPressed = false;
         onReleased.Invoke();
-        Debug.Log("Released");
         ball.active = false;
     }
 
