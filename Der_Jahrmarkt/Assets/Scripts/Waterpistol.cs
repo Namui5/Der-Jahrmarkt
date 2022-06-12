@@ -5,7 +5,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class Waterpistol : Watergun
 {
-	[SerializeField] private GameObject PaintballPrefab;
+	[SerializeField] private Projectile PaintballPrefab;
 	
 	protected override void StartShooting(XRBaseInteractor interactor)
 	{
@@ -16,7 +16,9 @@ public class Waterpistol : Watergun
 	protected override void Shoot()
 	{
 		base.Shoot();
-		GameObject projectileInstance = Instantiate(PaintballPrefab, paintballSpawn.position, paintballSpawn.rotation);
+		Projectile projectileInstance = Instantiate(PaintballPrefab, paintballSpawn.position, paintballSpawn.rotation);
+		projectileInstance.Init(this);
+		projectileInstance.Launch();
 	}
 	
 	protected override void StopShooting(XRBaseInteractor interactor)
