@@ -77,7 +77,7 @@ public class Hand : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       // AnimateHand();
+		AnimateHand();
         PhysicsMove();
     }
 
