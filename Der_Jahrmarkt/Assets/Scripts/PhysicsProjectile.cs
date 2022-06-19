@@ -13,7 +13,7 @@ public class PhysicsProjectile : Projectile
     {
         rigidBody = GetComponent<Rigidbody>();
     }
-
+	
 	public override void Init(Watergun watergun) 
     {
         base.Init(watergun);
@@ -35,5 +35,8 @@ public class PhysicsProjectile : Projectile
 		{
 			taker.TakeDamage(watergun, this, transform.position);
 		}
+		
+		ScoreManager_neu.instance.AddPoint();
     }
+		
 }
