@@ -36,9 +36,11 @@ public class PhysicsProjectile : Projectile
 			taker.TakeDamage(watergun, this, transform.position);
 		}
 		string tag = other.gameObject.tag;
+		
 		if( tag == "10" || tag == "20" || tag == "30" )
 		{
 			int score = int.Parse(tag);
+			other.gameObject.tag = "shot";
 			ScoreManager_neu.instance.AddPoint(score);
 		}
 		
