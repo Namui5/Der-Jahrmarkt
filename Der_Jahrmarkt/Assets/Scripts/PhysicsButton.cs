@@ -10,14 +10,14 @@ public class PhysicsButton : MonoBehaviour
     private Vector3 startPos; // hilft die startpos mit der currentpos zu vergleichen um zu zeigen wie weit der button sich bewegt 
     private ConfigurableJoint joint; // man kriegt das lineare Limit davon
 
-   // public GameObject ball;
+    public GameObject ball;
 
     public UnityEvent onPressed, onReleased;
     void Start()
     {
         startPos = transform.localPosition;
         joint = GetComponent<ConfigurableJoint>();
-    //    ball.active = false;
+        ball.active = false;
         
     }
 
@@ -54,8 +54,8 @@ public class PhysicsButton : MonoBehaviour
     {
         isPressed = true;
         onPressed.Invoke();
-     //   ball.active = true;
-      //  ball.transform.position = new Vector3((float)533.8, (float)140.212, (float)175.29);
+        ball.active = true;
+        ball.transform.position = new Vector3((float)533.8, (float)140.212, (float)175.29);
 
     }
 
@@ -63,7 +63,7 @@ public class PhysicsButton : MonoBehaviour
     {
         isPressed = false;
         onReleased.Invoke();
-    //    ball.active = false;
+        ball.active = false;
     }
 
 }
