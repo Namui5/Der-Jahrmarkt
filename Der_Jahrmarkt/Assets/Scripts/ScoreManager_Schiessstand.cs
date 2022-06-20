@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ScoreManager_neu : MonoBehaviour
+public class ScoreManager_Schiessstand : MonoBehaviour
 {
- 	public static ScoreManager_neu instance;
+ 	public static ScoreManager_Schiessstand instance;
 	
 	public Text scoreText;
 	public Text highscoreText;

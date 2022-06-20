@@ -41,7 +41,7 @@ public class PhysicsProjectile : Projectile
 		{
 			int score = int.Parse(tag);
 			other.gameObject.tag = "shot";
-			ScoreManager_neu.instance.AddPoint(score);
+			ScoreManager_Schiessstand.instance.AddPoint(score);
 		}
 		
     }
