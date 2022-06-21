@@ -11,7 +11,7 @@ public class Waterpistol : Watergun
 	
 	void Start()
     {
-        shootSound = GetComponent<AudioSource>();
+		shootSound = GetComponent<AudioSource>();
     }
 	
 	protected override void StartShooting(XRBaseInteractor interactor)
