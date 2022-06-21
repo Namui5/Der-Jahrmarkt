@@ -24,6 +24,7 @@ public class ScoreManager_Dosenwerfen : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+		
         scoreText.text = "Score: " + score.ToString();
 		dosen[0] = dose1;
         dosen[1] = dose2;
