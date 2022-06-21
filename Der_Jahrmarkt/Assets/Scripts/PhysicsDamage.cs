@@ -16,6 +16,5 @@ public class PhysicsDamage : MonoBehaviour, ITakeDamage
 	public void TakeDamage(Watergun watergun, Projectile projectile, Vector3 contactPoint)
     {
         rigidBody.AddForce(projectile.transform.forward * watergun.GetShootingForce(), ForceMode.Impulse);
-    
     }
 }
