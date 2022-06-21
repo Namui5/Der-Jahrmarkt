@@ -5,7 +5,14 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class Waterpistol : Watergun
 {
+	public AudioSource shootSound;
+	
 	[SerializeField] private Projectile PaintballPrefab;
+	
+	void Start()
+    {
+        shootSound = GetComponent<AudioSource>();
+    }
 	
 	protected override void StartShooting(XRBaseInteractor interactor)
 	{
@@ -19,6 +26,7 @@ public class Waterpistol : Watergun
 		Projectile projectileInstance = Instantiate(PaintballPrefab, paintballSpawn.position, paintballSpawn.rotation);
 		projectileInstance.Init(this);
 		projectileInstance.Launch();
+		shootSound.Play();
 	}
 	
 	protected override void StopShooting(XRBaseInteractor interactor)

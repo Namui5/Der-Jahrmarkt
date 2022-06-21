@@ -8,6 +8,9 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class Watergun : MonoBehaviour
 {
+	
+	public AudioSource shootSound;
+	
 	[SerializeField] protected float shootingForce;
 	[SerializeField] protected Transform paintballSpawn;
 	[SerializeField] private float recoilForce;
@@ -15,6 +18,11 @@ public class Watergun : MonoBehaviour
 	
 	private Rigidbody rigidBody;
 	private XRGrabInteractable interactableWatergun;
+	
+	void Start()
+    {
+        shootSound = GetComponent<AudioSource>();
+    }
 	
 	protected virtual void Awake()
 	{
