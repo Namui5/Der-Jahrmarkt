@@ -19,7 +19,7 @@ public class ScoreManager_Dosenwerfen : MonoBehaviour
     private bool[] gezaehlt = new bool[6];
 
     int score = 0;
-    int highScore = 6;
+    int highScore = 0;
 
     // Start is called before the first frame update
     void Start()

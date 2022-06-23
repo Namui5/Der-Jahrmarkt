@@ -3,7 +3,37 @@ guid: 582d5463df7f27741a0cbbdd974c6bde
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: FULLA-ARBRE
+    second: {fileID: 2800000, guid: 84bd5fb7529fa284d9b085a039b1c09e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: america026
+    second: {fileID: 2800000, guid: ddd038e5c90e80842951d41ea23ee650, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: america026b
+    second: {fileID: 2800000, guid: 045010f4b8f8d4440b0bf4ec345b91ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground020
+    second: {fileID: 2800000, guid: 603c9dc742792d840801f41760556066, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ground020b
+    second: {fileID: 2800000, guid: 5a6801d637cd47849a1a07415c71e612, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tronc
+    second: {fileID: 2800000, guid: 86fee5944bdd4aa49b128d2d31823c02, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
