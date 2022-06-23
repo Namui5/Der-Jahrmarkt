@@ -8,6 +8,8 @@ public class ScoreManager_Dosenwerfen : MonoBehaviour
 {
 
     public Text scoreText;
+	public Text highscoreDosenwerfenText;
+	
     public GameObject dose1;
     public GameObject dose2;
     public GameObject dose3;
@@ -19,11 +21,13 @@ public class ScoreManager_Dosenwerfen : MonoBehaviour
     private bool[] gezaehlt = new bool[6];
 
     int score = 0;
-    int highScore = 0;
+    int highscoreDosenwerfen = 0;
 
     // Start is called before the first frame update
     void Start()
     {
+		
+		highscoreDosenwerfen = PlayerPrefs.GetInt("highscoreDosenwerfen", 0);
 		
         scoreText.text = "Score: " + score.ToString();
 		dosen[0] = dose1;
@@ -32,6 +36,8 @@ public class ScoreManager_Dosenwerfen : MonoBehaviour
         dosen[3] = dose4;
         dosen[4] = dose5;
         dosen[5] = dose6;
+		
+		highscoreDosenwerfenText.text = "Highscore: " + highscoreDosenwerfen.ToString();
 
         // dose1.transform.Rotate(2, 2, 2);
     }
@@ -55,10 +61,15 @@ public class ScoreManager_Dosenwerfen : MonoBehaviour
 		// zählt den Score nach oben (50 Punkte pro Dose) und gibt es auf der Tafel aus
 		score = gezaehlt.Count(c => c) * 50;
 		scoreText.text = "Score: " + score.ToString();
+		
+		if (highscoreDosenwerfen < score)
+			PlayerPrefs.SetInt("highscoreDosenwerfen", score);
     }
 
     public void AddPoint()
     {
+		
+		
         /* for(int i = 5; i <= 0; i++)
          {
              if(dosen[i].transform.position.x != 0 && dosen[i].transform.position.y != 0)
